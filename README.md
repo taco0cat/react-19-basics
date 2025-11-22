@@ -8,6 +8,7 @@ This repository contains my progress and practice projects following the **Broco
 | :--- | :--- |
 | **01 - Basic-React-App** | Introduction to Vite, file structure, and first components. |
 | **02 - Card-Component** | Creating reusable card components and styling. |
+| **03 - CSS-Styles** | Inline CSS with Variables, External with .css files and Module CSS Import with "element.module.css". |
 
 *(I will update this table as I add more projects)*
 
