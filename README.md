@@ -9,8 +9,7 @@ This repository contains my progress and practice projects following the **Broco
 | **01 - Basic-React-App** | Introduction to Vite, file structure, and first components. |
 | **02 - Card-Component** | Creating reusable card components and styling. |
 | **03 - CSS-Styles** | Inline CSS with Variables, External with .css files and Module CSS Import with "element.module.css". |
-| **04 - Old React Props** | propTypes have been deleted from React 19 in favor of Typescript, defaultProps have been deleted in favor of JS Destructuring.
-In this proj i figure that out very late, so rn it only has JS Destructuring used for Default Values of Props |
+| **04 - Old React Props** | propTypes have been deleted from React 19 in favor of Typescript, defaultProps have been deleted in favor of JS Destructuring. In this proj i figure that out very late, so rn it only has JS Destructuring used for Default Values of Props |
 
 *(I will update this table as I add more projects)*
 
