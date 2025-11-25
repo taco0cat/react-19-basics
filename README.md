@@ -68,10 +68,10 @@ Instead of `defaultProps`, I utilize **ES6 JavaScript Destructuring** directly i
 ```jsx
 // ❌ Old Way (Deprecated)
 Component.defaultProps = {
-  name: "Anon"
+  name: "Guest"
 }
 
 // ✅ Modern Way (Used in this repo)
-function Component({ name = "Anon" }) {
+function Component({ name = "Guest" }) {
   return <h1>Hello, {name}</h1>;
 }
