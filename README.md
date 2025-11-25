@@ -12,7 +12,6 @@ This repository documents my learning journey through React. While based on the 
 * [📂 Project Directory](#project-directory)
 * [⚡ How to Run](#how-to-run)
 * [🆕 React 19 Adaptations](#react-19-adaptations)
-* [🛠️ Tech Stack](#tech-stack)
 
 ---
 
